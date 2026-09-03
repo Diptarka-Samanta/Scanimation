@@ -1,0 +1,7 @@
+{
+  "name": "Scanimation Studio",
+  "description": "Create optical barrier-grid scanimation art from 5 frames with interactive sliding grating sheet and AI frame generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
